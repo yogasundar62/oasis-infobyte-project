@@ -15,9 +15,10 @@ oasis-infobyte-project/
 ├── Task 4 - Weather App/
 │   └── weather using js.html
 ├── Task 5 - Chat Application/
-│   ├── chatapplication server.py   # Flask backend
-│   └── chatapplication.html        # Frontend interface
+│   ├── chatapplication server.py     # Flask backend
+│   └── chatapplication.html          # Frontend interface
 └── README.md
+
 
 ---
 
