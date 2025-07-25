@@ -4,7 +4,22 @@ Welcome to my **multi-functional Python project collection** created during my i
 
  📁 Project Structure
 
-<pre> ```text oasis-infobyte-project/ ├── Task 1 - Voice Assistant/ │ └── voice assistant.py ├── Task 2 - BMI Calculator/ │ └── bmi calculator.py ├── Task 3 - Random Password Generator/ │ └── random password generator.py ├── Task 4 - Weather App/ │ └── weather using js.html ├── Task 5 - Chat Application/ │ ├── chatapplication server.py # Flask backend │ └── chatapplication.html # Frontend interface └── README.md ``` </pre>
+```
+oasis-infobyte-project/
+├── Task 1 - Voice Assistant/
+│   └── voice assistant.py
+├── Task 2 - BMI Calculator/
+│   └── bmi calculator.py
+├── Task 3 - Random Password Generator/
+│   └── random password generator.py
+├── Task 4 - Weather App/
+│   └── weather using js.html
+├── Task 5 - Chat Application/
+│   ├── chatapplication server.py     # Flask backend
+│   └── chatapplication.html          # Frontend interface
+└── README.md
+```
+
 
 ## ✅ Tasks Overview
 
